@@ -1,0 +1,15 @@
+{
+  "short_name": "Creams-h5",
+  "name": "Artisan-Creams-h5",
+  "icons": [
+    {
+      "src": "/creams-logo.png",
+      "sizes": "69x69",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "theme_color": "#1890ff",
+  "background_color": "#ffffff"
+}
